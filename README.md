@@ -4,7 +4,7 @@
 
 Para realizar el siguiente taller deberá de utilizar los siguientes ENDPOINTS:
 - https://mcuapi.herokuapp.com/api/v1/movies (para la lista de películas)
-- https://mcuapi.herokuapp.com/api/v1/movies/<id> (para información detallada de una película en particular)
+- https://mcuapi.herokuapp.com/api/v1/movies/1 (para información detallada de una película en particular)
 
 ## Películas de MCU
 
